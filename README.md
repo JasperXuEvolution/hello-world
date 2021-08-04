@@ -1,3 +1,3 @@
 # hello-world
-Testing repository
+Testing repository \n
 Hi, this is Haiqing
